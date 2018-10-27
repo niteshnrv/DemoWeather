@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="map_api_key">AIzaSyD1uqFNysgfnyJjYXVLy-f5_tnEZKSWmSg</string>
+
+    <string name="btn_add_bookmark">Add Bookmark</string>
+
+    <string name="msg_temperature_c">%1$.2f °C </string>
+    <string name="msg_temperature_f">%1$d °F </string>
+    <string name="msg_humidity">%1$d %% </string>
+    <string name="msg_pressure">%1$.1f hPa </string>
+    <string name="msg_wind">%1$.2f m/s %2$.1f°</string>
+    <string name="msg_cloud_pressure">Cloud %1$d %%,  %2$.1f hPa </string>
+
+    <string name="lbl_Today_forecast">Today\'s Forecast</string>
+    <string name="lbl_sunrise">Sunrise</string>
+    <string name="lbl_sunset">Sunset</string>
+    <string name="lbl_temp">Temperature</string>
+    <string name="lbl_pressure">Pressure</string>
+    <string name="lbl_humidity">Humidity</string>
+    <string name="lbl_weather">Weather</string>
+    <string name="lbl_wind">Wind</string>
+
+
+    <string name="lbl_5_day_forecast">Next 5 Day Forecast</string>
+    <string name="lbl_get_5_day_forecast">Get Next 5 Day Forcast >></string>
+</resources>
